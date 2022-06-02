@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fede El Crack 206</string>
+    <string name="action_settings">Configuración</string>
+    <string name="first_fragment_label">Bienvenidos</string>
+    <string name="second_fragment_label">Información</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Volver</string>
+    <string name="random">Cualquier palabra</string>
+    <string name="texto_second_fragment">Fede es un salame</string>
+    <string name="texto_tercero_fragment">Fede es un genio</string>
+    <string name="hello_first_fragment">Mensaje para Kakaroto</string>
+</resources>
